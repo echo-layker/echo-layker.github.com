@@ -1,10 +1,14 @@
 ---
 layout: page
-title: echo-layker's page
+title: layker's website
 showtag:
-- ICPC模板
+- 文章
 ---
-## 近期
+## 个人简介
+
+- [个人简介(//posts/demo/个人简介)]
+
+## 最新更新
 
 {% for post in site.posts limit:5 %}
 
