@@ -234,7 +234,7 @@ busuanzi:
 run_time:
   enable: true
   src: /public/js/run_time.js
-  start_time: '09/06/2019 12:00:00' # 这是我第一篇github pages博客的时间
+  start_time: '09/05/2019 12:00:00' # 这是我第一篇github pages博客的时间
   alert: <i class="fas fa-cog fa-spin fa-fw"></i>
   day: 天
   hour: 时
@@ -243,7 +243,7 @@ run_time:
 
 copyright:
   enable: true
-  text: <a href="//github.com/wu-kan/wu-kan.github.io">View on GitHub</a>
+  text: <a href="//github.com/echo-layker/echo-layker.github.io">View on GitHub</a>
 
 post:
   meta:
