@@ -1,6 +1,6 @@
 ---
 title: ceph V13.2.6-Mimic版本ceph-deploy安装笔记
-categories: ceph,storage
+categories: ceph
 ---
 
 ## ceph V13.2.6-Mimic版本ceph-deploy安装笔记
