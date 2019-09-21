@@ -1,14 +1,10 @@
 ---
 layout: page
-title: layker's website
+title: 今、情热が岚になって
 showtag:
-- 文章
+- ICPC模板
 ---
-## 个人简介
-
-- [个人简介]
-
-## 最新更新
+## 近期
 
 {% for post in site.posts limit:5 %}
 
