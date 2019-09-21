@@ -1,9 +1,9 @@
 ---
-title: ceph V13.2.6-Mimic版本ceph-deploy安装笔记
+title: ceph-V13.2.6-Mimic版本ceph-deploy安装笔记
 categories: ceph
 ---
 
-## ceph V13.2.6-Mimic版本ceph-deploy安装笔记
+## ceph-V13.2.6-Mimic版本ceph-deploy安装笔记
 
 **<center>目录</center>**
 
