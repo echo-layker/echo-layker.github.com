@@ -110,12 +110,12 @@ script: # 需要在正文后调用的脚本或者插件的autoloader
 - var:
   - key: src
     value: //cdn.jsdelivr.net/npm/jquery/dist/jquery.min.js # jQuery
-- var:
-  - key: src
-    value: //cdn.jsdelivr.net/npm/ribbon.js/dist/ribbon.min.js # 彩带背景
-- var:
-  - key: src
-    value: //cdn.jsdelivr.net/gh/stevenjoezhang/live2d-widget/autoload.js # live2d
+# - var:
+#   - key: src
+#     value: //cdn.jsdelivr.net/npm/ribbon.js/dist/ribbon.min.js # 彩带背景
+# - var:
+#   - key: src
+#     value: //cdn.jsdelivr.net/gh/stevenjoezhang/live2d-widget/autoload.js # live2d
 - var:
   - key: src
     value: /public/js/prism.js
