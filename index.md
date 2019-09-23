@@ -1,8 +1,8 @@
 ---
 layout: page
-title: 今、情热が岚になって
+title: 人生若只如初见
 showtag:
-- ICPC模板
+- ceph
 ---
 ## 近期
 
